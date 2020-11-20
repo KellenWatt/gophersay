@@ -85,8 +85,8 @@ func main() {
 	fmt.Println("   \\")
 	fmt.Println("    \\ ___")
 	fmt.Println("     (0_0)")
-	fmt.Println("     | \" |")
-	fmt.Println("    (|   |)")
+//	fmt.Println("     | \" |")
+	fmt.Println("    (| \" |)")
 	fmt.Println("     || ||")
 	fmt.Println("     U---U")
 }
